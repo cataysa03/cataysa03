@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm **Cagatay**! 👋
 
-<!--
-**cataysa03/cataysa03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+An exceptionally curious and promising developer from Turkey with a deep passion for software development.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Facts About Me
+
+- 🔭 **Currently Working On:**  
+  A Software project called NoteBud and Hult Prize competition
+
+- 🌱 **Currently Learning:**  
+  Php, FastApi, PostgreSql
+
+- 📫 **How to Reach Me:**  
+  [sayin.cagatay03@gmail.com](mailto:sayin.cagatay03@gmail.com)
+
+- 🏢 **Check out:**  
+  [**cataysa03** on GitHub](https://github.com/cataysa03) <!-- Add your GitHub org/user link here -->
+
+
+---
+
+Thanks for stopping by, and feel free to get in touch!
